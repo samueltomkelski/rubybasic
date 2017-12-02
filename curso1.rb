@@ -1,6 +1,6 @@
     var1 = 100
     var2 = true
-    var3 = "teste"
+    var3 = "teste2234"
 
     puts var1
     puts var2
